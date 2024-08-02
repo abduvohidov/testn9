@@ -1,0 +1,1 @@
+const fetchData = "Test one"
